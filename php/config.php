@@ -1,8 +1,8 @@
 <?php
 $hostname = "localhost";
-$username = "root";
-$password = "";
-$dbname = "chat";
+$username = "sotelo10";
+$password = "sotelo10";
+$dbname = "chatbox";
 
 $conn = mysqli_connect($hostname, $username, $password, $dbname);
 if (!$conn) {
